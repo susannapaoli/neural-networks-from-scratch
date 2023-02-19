@@ -1,1 +1,1 @@
-# neural-networks-scratch
+# Neural Networks from Scratch
