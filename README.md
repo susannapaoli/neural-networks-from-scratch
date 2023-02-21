@@ -1,2 +1,2 @@
 # Neural Networks from Scratch
-Create neural networks from scratch in Python. The following layers are used:
+Create neural networks from scratch in Python to classify MNIST
